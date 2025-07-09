@@ -6,6 +6,7 @@ Rotate a knob → watch the matching servo move in real time. Perfect for learni
 ---
 
 ## 🎯 What can Learn
+
 - Read analog values with `analogRead()`  
 - Map 0–1023 pot readings to 0–180 ° servo angles  
 - Drive multiple servos simultaneously with Arduino’s `Servo.h`  
@@ -28,6 +29,7 @@ Rotate a knob → watch the matching servo move in real time. Perfect for learni
 ---
 
 ## ⚙️ How It Works
+
 1. Each potentiometer is wired to an **analog pin** (`A0 … A3`).  
 2. The matching servo signal goes to a **PWM-capable digital pin** (`3, 5, 6, 9`).  
 3. In the loop, we:
@@ -41,20 +43,14 @@ Rotate a knob → watch the matching servo move in real time. Perfect for learni
 ---
 
 ## 🚀 Getting Started
-Hardware
 
-Follow the media/wiring.png diagram.
+Hardware:
+1. Follow the media/wiring.png diagram.
+2. Tie all GNDs together (Arduino + external 5 V if used).
+3. Plug the external 5 V into the servos’ Vcc rail.
 
-Tie all GNDs together (Arduino + external 5 V if used).
-
-Plug the external 5 V into the servos’ Vcc rail.
-
-Software
-
-Open Arduino IDE → File ▸ Examples ▸ Servo ▸ Sweep (as reference).
-
-Load src/ServoPotControl.ino from this repo.
-
-Select your board/port → Upload.
-
-Twist a knob and enjoy the immediate servo response!
+Software:
+1. Open Arduino IDE → File ▸ Examples ▸ Servo ▸ Sweep (as reference).
+2. Load src/ServoPotControl.ino from this repo.
+3. Select your board/port → Upload.
+4. Twist a knob and enjoy the immediate servo response!

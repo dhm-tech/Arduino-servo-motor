@@ -28,6 +28,14 @@ Rotate a knob → watch the matching servo move in real time. Perfect for learni
 
 ---
 
+## 🛠️ Tools & Libraries
+
+- Arduino IDE 2.x
+- Servo.h (built-in with the IDE)
+- Tinkercad Circuits – quick virtual prototype (diagram)
+
+---
+
 ## ⚙️ How It Works
 
 1. Each potentiometer is wired to an **analog pin** (`A0 … A3`).  
@@ -61,9 +69,6 @@ Software:
 https://github.com/user-attachments/assets/f5ad2e84-efcb-4630-ade2-ff3602ed32d7
 
 ---
-
-## 🛠️ Tools & Libraries
-
-- Arduino IDE 2.x
-- Servo.h (built-in with the IDE)
-- Tinkercad Circuits – quick virtual prototype (diagram)
+## 👤 Author
+> Designed by: [Abdulrahman Qutah]  
+> Date: [10 Jul 2025]

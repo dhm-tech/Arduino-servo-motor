@@ -17,9 +17,9 @@ Rotate a knob → watch the matching servo move in real time. Perfect for learni
 ## 🔧 Components
 | Qty | Part                               |
 |----:|------------------------------------|
-| 1   | Arduino Uno (or compatible)        |
-| 4   | SG90 micro-servo motors            |
-| 4   | 10 kΩ potentiometers               |
+| 1   | Arduino Uno R3                     |
+| 4   | SG90 Positional micro-servo motors |
+| 4   |100 uF, 25 V Polarized Capacito     |
 | 1   | Breadboard + jumper wires          |
 | 1   | External 5 V / 2 A supply <sup>＊</sup> |
 

@@ -54,3 +54,14 @@ Software:
 2. Load `src/Servo-code.ino` from this repo.
 3. Select your board/port → Upload.
 4. Twist a knob and enjoy the immediate servo response!
+
+---
+
+## 🛠️ Tools & Libraries
+
+- Arduino IDE 2.x
+- Servo.h (built-in with the IDE)
+- Tinkercad Circuits – quick virtual prototype (diagram)
+
+::contentReference[oaicite:0]{index=0}
+

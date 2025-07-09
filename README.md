@@ -57,11 +57,12 @@ Software:
 
 ---
 
+## 📸 Demo Media
+https://github.com/user-attachments/assets/f5ad2e84-efcb-4630-ade2-ff3602ed32d7
+---
+
 ## 🛠️ Tools & Libraries
 
 - Arduino IDE 2.x
 - Servo.h (built-in with the IDE)
 - Tinkercad Circuits – quick virtual prototype (diagram)
-
-::contentReference[oaicite:0]{index=0}
-

@@ -45,7 +45,7 @@ Rotate a knob → watch the matching servo move in real time. Perfect for learni
 ## 🚀 Getting Started
 
 Hardware:
-1. Follow the `media/wiring.png` diagram.
+1. Follow the `media/Servo-setup.png` diagram.
 2. Tie all GNDs together (Arduino + external 5 V if used).
 3. Plug the external 5 V into the servos’ Vcc rail.
 
